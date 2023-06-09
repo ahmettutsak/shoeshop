@@ -1,3 +1,4 @@
+import Product from "@/components/Product";
 import Slider from "@/components/Slider";
 
 export default function Home() {
@@ -11,6 +12,23 @@ export default function Home() {
         </div>
         <Slider />
       </main>
+      <div className="flex p-8 gap-2 mt-48">
+        <Product
+          img={"https://picsum.photos/200"}
+          name={"Deneme"}
+          price={"50"}
+        />
+        <Product
+          img={"https://picsum.photos/200"}
+          name={"Deneme"}
+          price={"30"}
+        />
+        <Product
+          img={"https://picsum.photos/200"}
+          name={"Deneme"}
+          price={"70"}
+        />
+      </div>
     </div>
   );
 }
