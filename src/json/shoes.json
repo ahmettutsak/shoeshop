@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Nike HOVR Phantom",
+        "price": 173.48007029202637
+    },
+    {
+        "name": "Brooks 990v5",
+        "price": 75.6656462003618
+    },
+    {
+        "name": "Under Armour Air Max",
+        "price": 124.86065134374047
+    },
+    {
+        "name": "Mizuno Speedcross 5",
+        "price": 163.36561686638635
+    },
+    {
+        "name": "Merrell HOVR Phantom",
+        "price": 70.10167941340045
+    },
+    {
+        "name": "Asics Kinvara 12",
+        "price": 119.07042703836852
+    },
+    {
+        "name": "Lacoste Ghost 13",
+        "price": 169.53423275715645
+    },
+    {
+        "name": "Lacoste 990v5",
+        "price": 85.10058181890435
+    },
+    {
+        "name": "UGG Wave Rider 24",
+        "price": 195.87950044823532
+    },
+    {
+        "name": "Nike 990v5",
+        "price": 126.47094557409842
+    },
+    {
+        "name": "Salomon Old Skool",
+        "price": 85.32588858520256
+    },
+    {
+        "name": "Nike Speedcross 5",
+        "price": 177.93739320017448
+    },
+    {
+        "name": "UGG Old Skool",
+        "price": 181.75451739869277
+    },
+    {
+        "name": "Vans Bondi 7",
+        "price": 85.69044330784105
+    },
+    {
+        "name": "Fila Air Max",
+        "price": 114.79468383810593
+    },
+    {
+        "name": "Vans RS-X",
+        "price": 76.55944345422894
+    },
+    {
+        "name": "Nike Bondi 7",
+        "price": 166.85923429675054
+    },
+    {
+        "name": "Brooks Disruptor II",
+        "price": 59.29344428059952
+    },
+    {
+        "name": "Vans Air Max",
+        "price": 150.06693914144552
+    },
+    {
+        "name": "Fila Ghost 13",
+        "price": 60.96555746315203
+    },
+    {
+        "name": "Under Armour Speedcross 5",
+        "price": 194.7000077201482
+    },
+    {
+        "name": "UGG Classic Short",
+        "price": 99.85171968302727
+    },
+    {
+        "name": "Brooks Gel-Kayano 27",
+        "price": 143.6765968422355
+    },
+    {
+        "name": "Dr. Martens Carnaby Evo",
+        "price": 82.74297154822456
+    },
+    {
+        "name": "Merrell 1460",
+        "price": 192.4672216701041
+    },
+    {
+        "name": "Timberland Classic Short",
+        "price": 150.5844149185918
+    },
+    {
+        "name": "Saucony Classic 6-Inch",
+        "price": 136.44855471554462
+    },
+    {
+        "name": "Dr. Martens Disruptor II",
+        "price": 106.07966535577239
+    },
+    {
+        "name": "Lacoste Disruptor II",
+        "price": 114.77915079173718
+    },
+    {
+        "name": "Nike Wave Rider 24",
+        "price": 188.16136660395858
+    },
+    {
+        "name": "Adidas Classic 6-Inch",
+        "price": 84.13559452598321
+    },
+    {
+        "name": "New Balance Kinvara 12",
+        "price": 112.41149861644686
+    },
+    {
+        "name": "Under Armour Old Skool",
+        "price": 67.52517653836604
+    },
+    {
+        "name": "Converse Ultraboost",
+        "price": 162.0601925052623
+    },
+    {
+        "name": "Merrell Old Skool",
+        "price": 181.886708791879
+    },
+    {
+        "name": "Timberland Ultraboost",
+        "price": 84.2616318687574
+    },
+    {
+        "name": "Saucony Moab 2",
+        "price": 154.258508739434
+    },
+    {
+        "name": "Asics Kinvara 12",
+        "price": 171.38828582711767
+    },
+    {
+        "name": "Timberland Moab 2",
+        "price": 159.28211522418246
+    },
+    {
+        "name": "Lacoste Speedcross 5",
+        "price": 112.53617861535807
+    },
+    {
+        "name": "Brooks Kinvara 12",
+        "price": 96.46493705353015
+    },
+    {
+        "name": "Nike Moab 2",
+        "price": 77.2527162498277
+    },
+    {
+        "name": "Reebok 990v5",
+        "price": 71.81299702434825
+    },
+    {
+        "name": "Fila Wave Rider 24",
+        "price": 123.21190620902867
+    },
+    {
+        "name": "Converse Old Skool",
+        "price": 140.25513774082836
+    },
+    {
+        "name": "New Balance 1460",
+        "price": 163.34810067760066
+    },
+    {
+        "name": "Puma Classic Short",
+        "price": 176.89732705073064
+    },
+    {
+        "name": "Timberland Carnaby Evo",
+        "price": 122.22453127599202
+    },
+    {
+        "name": "Hoka One One Classic Short",
+        "price": 170.39482064679473
+    },
+    {
+        "name": "Reebok Speedcross 5",
+        "price": 65.89516193682249
+    },
+    {
+        "name": "Hoka One One Disruptor II",
+        "price": 169.40661030513263
+    },
+    {
+        "name": "Brooks Classic Leather",
+        "price": 109.7974840183215
+    },
+    {
+        "name": "Timberland Classic Leather",
+        "price": 104.5744149183351
+    },
+    {
+        "name": "Brooks Chuck Taylor All Star",
+        "price": 104.96149099440524
+    },
+    {
+        "name": "Saucony Bondi 7",
+        "price": 197.39096012956404
+    },
+    {
+        "name": "Timberland HOVR Phantom",
+        "price": 100.86309321370936
+    },
+    {
+        "name": "Saucony HOVR Phantom",
+        "price": 78.3752274505654
+    },
+    {
+        "name": "Adidas Wave Rider 24",
+        "price": 77.95205211341957
+    },
+    {
+        "name": "Saucony HOVR Phantom",
+        "price": 69.65872336519425
+    },
+    {
+        "name": "Merrell Disruptor II",
+        "price": 127.54466480792533
+    },
+    {
+        "name": "Vans Disruptor II",
+        "price": 86.61019928671521
+    },
+    {
+        "name": "Dr. Martens Bondi 7",
+        "price": 150.6215985828099
+    },
+    {
+        "name": "Nike Speedcross 5",
+        "price": 105.14705157375629
+    },
+    {
+        "name": "Nike Carnaby Evo",
+        "price": 199.05985919619255
+    },
+    {
+        "name": "Converse Classic Leather",
+        "price": 157.1417997754719
+    },
+    {
+        "name": "Reebok HOVR Phantom",
+        "price": 184.81346307731056
+    },
+    {
+        "name": "Puma Ultraboost",
+        "price": 138.41688376424162
+    },
+    {
+        "name": "Saucony Classic Short",
+        "price": 58.87131154389243
+    },
+    {
+        "name": "Nike Disruptor II",
+        "price": 124.08253477249079
+    },
+    {
+        "name": "Nike Air Max",
+        "price": 139.67059853990173
+    },
+    {
+        "name": "Salomon 990v5",
+        "price": 81.18836308461846
+    },
+    {
+        "name": "Brooks Classic Short",
+        "price": 138.47279009220694
+    },
+    {
+        "name": "Merrell Air Max",
+        "price": 174.6658484304499
+    },
+    {
+        "name": "Dr. Martens Carnaby Evo",
+        "price": 104.76606173588206
+    },
+    {
+        "name": "Saucony RS-X",
+        "price": 66.88414706839266
+    },
+    {
+        "name": "Converse Wave Rider 24",
+        "price": 193.9502407967462
+    },
+    {
+        "name": "Brooks Carnaby Evo",
+        "price": 162.51459711933458
+    },
+    {
+        "name": "Converse Classic 6-Inch",
+        "price": 142.0400304090284
+    },
+    {
+        "name": "Reebok Classic Leather",
+        "price": 75.92058345460627
+    },
+    {
+        "name": "Dr. Martens Disruptor II",
+        "price": 141.9451279517854
+    },
+    {
+        "name": "Timberland 1460",
+        "price": 115.86468882022022
+    },
+    {
+        "name": "Adidas 990v5",
+        "price": 115.9238828564884
+    },
+    {
+        "name": "Timberland RS-X",
+        "price": 142.22198650286288
+    },
+    {
+        "name": "Adidas Kinvara 12",
+        "price": 70.71290026379745
+    },
+    {
+        "name": "Lacoste Disruptor II",
+        "price": 192.2781966976354
+    },
+    {
+        "name": "Brooks Moab 2",
+        "price": 137.03484849831045
+    },
+    {
+        "name": "Brooks Bondi 7",
+        "price": 171.7111288395886
+    },
+    {
+        "name": "UGG Ghost 13",
+        "price": 77.50992851104165
+    },
+    {
+        "name": "Vans Ghost 13",
+        "price": 199.46086365379782
+    },
+    {
+        "name": "Reebok Moab 2",
+        "price": 117.51027251004969
+    },
+    {
+        "name": "Brooks Air Max",
+        "price": 171.75566461521237
+    },
+    {
+        "name": "Nike Air Max",
+        "price": 121.80743960551249
+    },
+    {
+        "name": "Brooks Moab 2",
+        "price": 158.09387502879486
+    },
+    {
+        "name": "Merrell Wave Rider 24",
+        "price": 144.14749857243498
+    },
+    {
+        "name": "Mizuno Ghost 13",
+        "price": 174.30740927084742
+    },
+    {
+        "name": "Brooks Classic Leather",
+        "price": 70.42864521494838
+    },
+    {
+        "name": "Timberland Bondi 7",
+        "price": 69.8773733417782
+    },
+    {
+        "name": "Vans RS-X",
+        "price": 136.24333492066154
+    },
+    {
+        "name": "Timberland Bondi 7",
+        "price": 122.97016718052207
+    },
+    {
+        "name": "Reebok Old Skool",
+        "price": 84.3803041958922
+    },
+    {
+        "name": "Salomon Classic Leather",
+        "price": 53.80689715450314
+    },
+    {
+        "name": "New Balance Old Skool",
+        "price": 174.42575576721796
+    },
+    {
+        "name": "Converse Carnaby Evo",
+        "price": 151.66221650712265
+    },
+    {
+        "name": "Fila Ghost 13",
+        "price": 182.6599874607805
+    },
+    {
+        "name": "UGG Kinvara 12",
+        "price": 163.42520433904335
+    },
+    {
+        "name": "Hoka One One Classic Short",
+        "price": 55.09866360081717
+    }
+]
